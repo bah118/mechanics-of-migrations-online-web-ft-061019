@@ -1,8 +1,2 @@
-class Artist
-
-    def initialize
-        @artist = new Artist
-    end
-
-
+class Artist < ActiveRecord::Base
 end
